@@ -2,7 +2,7 @@
 📌 In this repository, by training Yolov7 on COCO 2017 dataset, a model for object detection used in Autonomous Vehicles is acquired.
 
 ### Model Weights
-▶️ 📂 weights 
+▶️ 📂 weights
 
 ### Executing the Model
 1) First run the following code to install the Requirements:
