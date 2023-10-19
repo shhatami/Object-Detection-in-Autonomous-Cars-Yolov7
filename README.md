@@ -5,7 +5,7 @@
 ▶️ 📂 weights
 
 ### Executing the Model
-1) First run the following code to install the Requirements: 
+1) First run the following code to install the Requirements:
 
     `pip install -r requirements.txt`
 
