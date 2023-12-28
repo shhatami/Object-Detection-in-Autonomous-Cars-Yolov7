@@ -9,7 +9,7 @@
 
     `pip install -r requirements.txt`
 
-2) Then run the following notebooks to execute the model.
+2) Then run the following notebooks to execute the model. 
 
    `python detect-VBeta11.3_lite.py`
 
