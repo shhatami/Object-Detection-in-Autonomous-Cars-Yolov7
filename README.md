@@ -7,7 +7,7 @@
 ### Executing the Model
 1) First run the following code to install the Requirements:
 
-    `pip install -r requirements.txt` 
+    `pip install -r requirements.txt`  
 
 2) Then run the following notebooks to execute the model.
 
