@@ -1,6 +1,6 @@
 import os, numpy as np, cv2, psutil, GPUtil, math, csv, time, re, random, subprocess, platform, logging, threading, multiprocessing
 
-os.environ["OMP_NUM_THREADS"] = "1"
+os.environ["OMP_NUM_THREADS"] = "1" 
 os.environ["OPENBLAS_NUM_THREADS"] = "1"
 os.environ["MKL_NUM_THREADS"] = "1"
 os.environ["VECLIB_MAXIMUM_THREADS"] = "1"
